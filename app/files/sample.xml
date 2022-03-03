@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<top name="hoge">
+    <sub name="sub1">
+        <item>
+            item01
+        </item>
+    </sub>
+    <sub name="sub2">
+        <value>
+            item01
+        </value>
+    </sub>
+</top>
