@@ -46,6 +46,7 @@ if __name__ == '__main__':
     root = ET.parse(FILE_PATH).getroot()
     logging_item('root', root)
 
+    logging_item('root[0]', root[0])
     for child in root:
         logging_item('child', child)
 
